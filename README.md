@@ -8,8 +8,19 @@ We also use Pronterface to run our g-code: https://www.pronterface.com/
 The project uses an Arduino Mega to run the program. See full wiring diagram below:
 ![Wiring Diagram](https://github.com/johnathantran/Marlin-Food-3D-Printer/blob/master/wiring_diagram.png)
 
+*To get started:*
+1. Build the physical structure of your 3D food printer.
 
-Please see the Assembly Instructions for a detailed guide on how to set up the physical build, wire the electronics, and program the Arduino.
+2. Wire the Arduino and electronics according to the wiring diagram above.
+
+3. Clone this repo and extract the files from the Marlin-1.1.x-Reconfigured.zip file.
+
+4. Upload the Configuration.h file to your Arduino Mega.
+
+5. Configure the Configuration.h file to your 3D printer's settings, using Pronterface to test your changes.
+
+Please refer to the Assembly Instructions for a detailed guide on how to set up the physical build, wire the electronics, and program the Arduino.
+
 *Project Description*
 
 Food 3D printing is an exciting new application of additive manufacturing that has the potential to improve many aspects of food production and consumption. In fact, 3D printing is predicted to be the next major disruptive technology for the food industry in the next decade (Karlgaard, 2011). However, there are many challenges that must be overcome before widespread adoption, including increasing the availability of printable food materials, achieving a cost reduction, and easing use for a layman consumer. Despite these challenges, the current development of food 3D printers looks promising as we see more and more competitive entries in the market.
