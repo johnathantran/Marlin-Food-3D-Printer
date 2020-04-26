@@ -8,7 +8,7 @@ We also use Pronterface to run our g-code: https://www.pronterface.com/
 The project uses an Arduino Mega to run the program. See full wiring diagram below:
 ![Wiring Diagram](https://github.com/johnathantran/Marlin-Food-3D-Printer/blob/master/wiring_diagram.png)
 
-#*To get started:*
+# To get started:
 1. Build the physical structure of your 3D food printer.
 
 2. Wire the Arduino and electronics according to the wiring diagram above.
