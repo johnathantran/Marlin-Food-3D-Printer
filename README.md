@@ -5,6 +5,10 @@ The firmware used by our printer is Marlin: https://github.com/MarlinFirmware/Ma
 
 We also use Pronterface to run our g-code: https://www.pronterface.com/
 
+The project uses an Arduino Mega to run the program. See wiring diagram below:
+![Belt and Pulley Gantry System](
+
+
 Please see the Assembly Instructions for a detailed guide on how to set up the physical build, wire the electronics, and program the Arduino.
 *Project Description*
 
@@ -12,5 +16,14 @@ Food 3D printing is an exciting new application of additive manufacturing that h
 
 We propose designing and building our own food 3D printer that is more affordable to the average citizen and buildable by a DIY enthusiast with access to basic tools. In this proposal we will provide an overview of the functionality of a 3D printer, discuss the advantages, limitations, and challenges facing current food 3D printers, present our findings from customer interviews, explain our engineering requirements, and present a problem statement summarizing the goals and constraints facing our design team.
 
+*Final Food 3D Printer*
+![Final Food 3D Printer](https://github.com/johnathantran/Marlin-Food-3D-Printer/blob/master/final_printer.jpg)
 
+*Belt and Pulley Gantry System*
+
+![Belt and Pulley Gantry System](https://github.com/johnathantran/Marlin-Food-3D-Printer/blob/master/belt_system.png)
+
+*Syringe Extrusion Mechanism*
+
+![Syringe Extrusion System](https://github.com/johnathantran/Marlin-Food-3D-Printer/blob/master/extrusion_mechanism.png)
 
