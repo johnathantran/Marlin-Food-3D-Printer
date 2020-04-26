@@ -5,6 +5,10 @@ The firmware used by our printer is Marlin: https://github.com/MarlinFirmware/Ma
 
 We also use Pronterface to run our g-code: https://www.pronterface.com/
 
+The project uses an Arduino Mega to run the program. See wiring diagram below:
+![Belt and Pulley Gantry System](
+
+
 Please see the Assembly Instructions for a detailed guide on how to set up the physical build, wire the electronics, and program the Arduino.
 *Project Description*
 
