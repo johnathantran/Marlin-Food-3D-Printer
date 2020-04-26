@@ -21,20 +21,20 @@ The project uses an Arduino Mega to run the program. See full wiring diagram bel
 
 Please refer to the Assembly Instructions for a detailed guide on how to set up the physical build, wire the electronics, and program the Arduino.
 
-#*Project Description*
+# Project Description
 
 Food 3D printing is an exciting new application of additive manufacturing that has the potential to improve many aspects of food production and consumption. In fact, 3D printing is predicted to be the next major disruptive technology for the food industry in the next decade (Karlgaard, 2011). However, there are many challenges that must be overcome before widespread adoption, including increasing the availability of printable food materials, achieving a cost reduction, and easing use for a layman consumer. Despite these challenges, the current development of food 3D printers looks promising as we see more and more competitive entries in the market.
 
 We propose designing and building our own food 3D printer that is more affordable to the average citizen and buildable by a DIY enthusiast with access to basic tools. In this proposal we will provide an overview of the functionality of a 3D printer, discuss the advantages, limitations, and challenges facing current food 3D printers, present our findings from customer interviews, explain our engineering requirements, and present a problem statement summarizing the goals and constraints facing our design team.
 
-#*Final Food 3D Printer*
+# Final Food 3D Printer
 ![Final Food 3D Printer](https://github.com/johnathantran/Marlin-Food-3D-Printer/blob/master/final_printer.jpg)
 
-#*Belt and Pulley Gantry System*
+# Belt and Pulley Gantry System
 
 ![Belt and Pulley Gantry System](https://github.com/johnathantran/Marlin-Food-3D-Printer/blob/master/belt_system.png)
 
-#*Syringe Extrusion Mechanism*
+# Syringe Extrusion Mechanism
 
 ![Syringe Extrusion System](https://github.com/johnathantran/Marlin-Food-3D-Printer/blob/master/extrusion_mechanism.png)
 
