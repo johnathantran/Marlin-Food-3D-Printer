@@ -2,6 +2,7 @@
 Modified Arduino 3D printer firmware for creating customizable shapes through food paste extrusion. Our printer operates much the same way a regular 3D printer does, except that it does not use heated elements. It is also in reality closer to a "2.5D" printer, as it does not have a Z-axis, but rather builds in the Z-direction by layering food paste. Our team used mashed potatoes as the food paste, but this build should work with most foods with a paste-like consistency (such as frosting, pancake batter, creams, etc). 
 
 The firmware used by our printer is Marlin: https://github.com/MarlinFirmware/Marlin
+
 We also use Pronterface to run our g-code: https://www.pronterface.com/
 
 Please see the Assembly Instructions for a detailed guide on how to set up the physical build, wire the electronics, and program the Arduino.
